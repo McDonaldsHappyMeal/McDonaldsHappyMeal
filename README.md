@@ -4,7 +4,6 @@ Hello... and welcome. I don't believe that we've met before, have we? No matter.
 - Specialisation in Mechatronics & Robotics Engineering. Extended major in Pure Mathematics.
 - Developing my skills on motion planning and optimal control of autonomous racing vehicles.
 - Interested in anything related to intelligent robotic systems.
-- Also interested in DevOps work to increase developer's quality of life in any way, shape or form.
 
 Feel free to reach out to me on GitHub :)
 
